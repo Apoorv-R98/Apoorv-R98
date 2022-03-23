@@ -11,6 +11,8 @@
 
 <br />
 
+<br />
+
 Hi,I'm Apoorv Rastogi🙌, a Full Stack Web Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
@@ -28,9 +30,11 @@ Hi,I'm Apoorv Rastogi🙌, a Full Stack Web Developer. Apart from that I love ge
 
 **Languages and Tools:**
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AnantP%40java.png/640px-AnantP%40java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"></code>
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorv-R98&show_icons=true&hide_border=true)
