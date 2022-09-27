@@ -21,7 +21,7 @@ Hi,I'm Apoorv Rastogi🙌, a Full Stack Web Developer. Apart from that I love ge
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Software Developer at Bank of America.
+- 🔭 I’m currently Software Developer at Acko.
 - 🌱 I’m currently learning High level Design.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
